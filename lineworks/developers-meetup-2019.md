@@ -1,6 +1,6 @@
 # Developers Meetup 2019
 
-![1](/Users/jaeyeonling/workspace/jaeyeonling/conference/lineworks/1.png)
+![1](./1.png)
 
 * 주최: [LINE WORKS](<https://line.worksmobile.com/>)
 * 일시: 2019/04/23 15:00 ~ 18:30
@@ -10,7 +10,7 @@
 
 ## About
 
-![2](/Users/jaeyeonling/workspace/jaeyeonling/conference/lineworks/2.png)
+![2](./2.png)
 
 
 모바일 비즈니스 환경에서는 Bot을 활용하여 업무 효율성을 더욱 향상시킬 수 있습니다.
