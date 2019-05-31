@@ -277,7 +277,7 @@
 
 3. Process & Thread & Goroutine
    1. Process
-      
+     
 - Code, Data, Heap, Stack을 가짐
       
    2. Thread
@@ -295,11 +295,8 @@
      - runtime.Gosched()
    
    4. Gorutine과 Thread 비교
-      |                        | Goroutine   | Thread                           |
-      | ---------------------- | ----------- | -------------------------------- |
-      | Memory                 | 2KB         | 1MB                              |
-      | Setup / Teardown Cost  | 저렴        | 높은 비용                        |
-      | Context Switching Cost | 비교적 저렴 | 모든 레지스터의 Switch가 요구 됨 |
+      
+      ![1](./1.png)
 
 ### Q/A
 
