@@ -261,7 +261,7 @@
       2. Net Poller
          - IO 작업 시 잠들어있음
          - OS Call은 무거음
-         - OS Calll을 효율적으로 처리하기 위한 다양한 장치
+         - OS Call을 효율적으로 처리하기 위한 다양한 장치
            - kqueue - MacOS
            - epoll - Linux
            - IOCP - Window
