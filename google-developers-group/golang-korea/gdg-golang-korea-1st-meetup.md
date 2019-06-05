@@ -5,8 +5,7 @@
 - 주최: Google Developers Group
 - 일시: 2019/05/30 20:00 ~ 22:00
 - 장소: 서울특별시 강남구 논현로85길 46 갈라 빌딩 메가존(주) 지하 1층 대강연장
-
-
+- https://www.meetup.com/GDG-Golang-Korea/events/261344405/
 
 ## About
 
@@ -333,6 +332,17 @@
 
 
 ## ETC
+
+### 발표자료
+- [Biscuit: An Operating System Written in Go](https://www.youtube.com/watch?v=e-5kCRZhOw8&list=PLxEDm5GRSh4MZDRMnlM1UpvKfKtDuqmd)
+   * https://www.slideshare.net/SeongJaePark1/biscuit-an-operating-system-written-in-go
+   * https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_cutler.pdf
+
+- [고2학생의 gin 프레임워크로 restful api를 더 잘 만들기 위한 라이브러리 개발기](https://www.youtube.com/watch?v=dcGds8bYRiY&list=PLxEDm5GRSh4MZDRMnlM1UpvKfKtDuqmd8&index=2)
+   * https://github.com/golangkorea/gophercon-talks/blob/master/slides/201905/gin-restful.pdf
+
+- [gRPC와 Goroutine 각각은 대체 어떤 원리로 돌아갈까?](https://www.youtube.com/watch?v=pS-SsUzL5eE&list=PLxEDm5GRSh4MZDRMnlM1UpvKfKtDuqmd8&index=3)
+   * https://github.com/golangkorea/gophercon-talks/blob/master/slides/201905/grpc-and-goroutine.pdf
 
 ### 토발즈
 - [토발즈 인성 논란1](https://www.youtube.com/watch?v=_36yNWw_07g)
