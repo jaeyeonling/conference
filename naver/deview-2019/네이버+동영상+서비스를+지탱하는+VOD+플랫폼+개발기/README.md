@@ -153,7 +153,7 @@
 
   ![5](./5.png)
 
-######Global 업로드 구조 개선 #2
+###### Global 업로드 구조 개선 #2
 
 * Transfer Queue를 통해서 Relay
 * FileMerge는 국내 서버에서만 처리
