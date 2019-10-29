@@ -21,7 +21,7 @@
   * Lumigo - 모니터링
   * nuclio - Data Science
 
-###Cloud의 진화 과정
+### Cloud의 진화 과정
 
 ![1](./1.png)
 
