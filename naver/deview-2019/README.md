@@ -8,7 +8,7 @@
 
 4. [네이버 동영상 서비스를 지탱하는 VOD 플랫폼 개발기](./네이버+동영상+서비스를+지탱하는+VOD+플랫폼+개발기)
 
-5. [눈발자국](./naver/deview-2019/눈발자국)
+5. [눈발자국](./눈발자국)
 
 6. [Armeria - A Microservice Framework Well-suited Everywhere](./Armeria+-+A+Microservice+Framework+Well-suited+Everywhere)
 
